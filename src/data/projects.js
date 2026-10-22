@@ -26,15 +26,15 @@ export const projects = [
     isUnderDevelopment: false,
     technologies: ["React.js", "JavaScript", "Node.js", "Express.js", "MongoDB"],
     description:
-      "Built and deployed a responsive portfolio website to showcase skills, education, projects, and development experience.",
+      "Built and deployed a modern, responsive developer portfolio with dark theme, interactive terminal hero, project showcase, and resume viewer.",
     features: [
-      "Responsive UI & modern developer design",
-      "Project showcase & technical profile",
-      "Backend APIs & MongoDB integration",
-      "Comprehensive developer information",
-      "Deployed and hosted on Vercel"
+      "Dark-first modern developer design with glassmorphism",
+      "Interactive terminal card hero section",
+      "Resume modal with PDF preview & download",
+      "Filterable project cards with live demo links",
+      "Fully responsive — Mobile, Tablet & Desktop"
     ],
-    liveUrl: "https://personal-portfolio-u8vw.vercel.app",
+    liveUrl: "https://karthik-portfolio-psi-khaki.vercel.app",
     githubUrl: "https://github.com/karthikhm171205-dev/karthik-portfolio"
   },
   {

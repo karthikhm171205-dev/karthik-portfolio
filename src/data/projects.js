@@ -35,7 +35,7 @@ export const projects = [
       "Deployed and hosted on Vercel"
     ],
     liveUrl: "https://personal-portfolio-u8vw.vercel.app",
-    githubUrl: null
+    githubUrl: "https://github.com/karthikhm171205-dev/karthik-portfolio"
   },
   {
     id: "ecommerce-platform",

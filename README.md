@@ -1,16 +1,52 @@
-# React + Vite
+# Karthik H M — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive, and recruiter-ready portfolio website built with **React**, **Vite**, and modern **CSS**.
 
-Currently, two official plugins are available:
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/karthikhm171205-dev/karthik-portfolio)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- **Hero & Interactive Terminal**: Terminal card showcasing developer stack and real-time status.
+- **Academic Foundation**: Computer Science & Engineering (AI & ML) student profile at AJ Institute of Engineering and Technology (7.52 CGPA).
+- **Categorized Skills**: Visual categorization across Languages, Frontend, Backend, Databases, Authentication, and Developer Tools.
+- **Project Showcase**:
+  - **Task Management Application** (Full Stack — Render deployed)
+  - **Personal Portfolio** (Full Stack — Vercel deployed)
+  - **E-Commerce Web Application** (Full Stack — Render deployed)
+  - **Student Academic Tracking System** (Web Application)
+- **Resume Integration**: Built-in PDF modal viewer and direct download.
+- **Responsive & Accessible**: Fully adaptive across Mobile, Tablet, and Desktop with prefers-reduced-motion support.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the Oxlint configuration
+- **Frontend**: React 19, Vite, Vanilla CSS3, CSS Variables
+- **Icons**: Lucide React
+- **Typography**: Google Fonts (Inter, Outfit, JetBrains Mono)
+- **Deployment**: Vercel / Netlify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 💻 Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/karthikhm171205-dev/karthik-portfolio.git
+
+# Navigate to project folder
+cd karthik-portfolio
+
+# Install dependencies
+npm install
+
+# Start local development server
+npm run dev
+```
+
+## 📦 Production Build
+
+```bash
+npm run build
+npm run preview
+```
+
+## 📄 License
+
+MIT © 2026 [Karthik H M](https://github.com/karthikhm171205-dev)

@@ -11,6 +11,7 @@ import CareerInterests from "./components/CareerInterests";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import ResumeModal from "./components/ResumeModal";
+import Chatbot from "./components/Chatbot";
 import "./App.css";
 
 export default function App() {
@@ -37,11 +38,13 @@ export default function App() {
       {/* Footer */}
       <Footer />
 
-      {/* Interactive Resume Preview & Download Modal */}
       <ResumeModal
         isOpen={isResumeModalOpen}
         onClose={() => setIsResumeModalOpen(false)}
       />
+
+      {/* AI Portfolio Chatbot */}
+      <Chatbot />
     </div>
   );
 }
